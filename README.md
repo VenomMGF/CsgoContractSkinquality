@@ -1,2 +1,3 @@
 # CsgoContractSkinquality
 计算CSGO汰换合同武器品质//Calculate CSGO contract weapon quality
+该程序可通过输入10把计算汰换合同武器磨损计算出目标武器的品质。
